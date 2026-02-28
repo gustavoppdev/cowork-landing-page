@@ -10,6 +10,7 @@ import { routing } from "@/i18n/routing";
 // CSS
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
+import NavigationBar from "@/components/layout/NavigationBar";
 
 const generalSans = localFont({
   variable: "--font-general-sans",
@@ -93,7 +94,10 @@ export default async function RootLayout({ children, params }: Props) {
           disableTransitionOnChange
           forcedTheme="light"
         >
-          <NextIntlClientProvider>{children}</NextIntlClientProvider>
+          <NextIntlClientProvider>
+            <NavigationBar />
+            {children}
+          </NextIntlClientProvider>
         </ThemeProvider>
       </body>
     </html>

@@ -1,5 +1,14 @@
 {
-  "HomePage": {
-    "title": "hola world!"
+  "Layout": {
+    "NavigationBar": {
+      "links": {
+        "about": "Nosotros",
+        "pricing": "Precios",
+        "blog": "Blog",
+        "events": "Eventos"
+      },
+      "signUp": "Registrarse",
+      "login": "Iniciar sesión"
+    }
   }
 }
