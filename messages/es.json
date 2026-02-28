@@ -20,6 +20,23 @@
     },
     "SocialProof": {
       "title": "Con la confianza de empresas líderes"
+    },
+    "Features": {
+      "title": "¿Por qué elegir <emphasis>Cowork?</emphasis>",
+      "cards": {
+        "0": {
+          "title": "Espacios Flexibles",
+          "description": "Ya seas un profesional autónomo, startup o empresa, nuestras soluciones flexibles de oficina se adaptan a tus necesidades."
+        },
+        "1": {
+          "title": "Precios Transparentes",
+          "description": "Elige un plan que se ajuste a tu presupuesto y objetivos de negocio, y experimenta el valor de un espacio de coworking premium sin comprometer tus finanzas."
+        },
+        "2": {
+          "title": "Membresías a Medida",
+          "description": "Ya sea que prefieras la flexibilidad de un hot desk o la exclusividad de una oficina privada, Cowork ofrece soluciones personalizadas para cada estilo de trabajo."
+        }
+      }
     }
   }
 }

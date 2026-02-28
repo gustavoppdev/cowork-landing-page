@@ -20,6 +20,23 @@
     },
     "SocialProof": {
       "title": "Aprovado por empresas líderes"
+    },
+    "Features": {
+      "title": "Por que escolher o <emphasis>Cowork?</emphasis>",
+      "cards": {
+        "0": {
+          "title": "Espaços Flexíveis",
+          "description": "Seja você um profissional autônomo, startup ou empresa, nossas soluções flexíveis de escritório atendem às suas necessidades."
+        },
+        "1": {
+          "title": "Preços Transparentes",
+          "description": "Escolha um plano que se adapte ao seu orçamento e objetivos de negócios, e experimente o valor de um espaço de coworking premium sem pesar no bolso."
+        },
+        "2": {
+          "title": "Assinaturas Personalizadas",
+          "description": "Seja a flexibilidade de uma mesa rotativa ou a exclusividade de um escritório privativo, o Cowork oferece soluções sob medida para cada estilo de trabalho."
+        }
+      }
     }
   }
 }

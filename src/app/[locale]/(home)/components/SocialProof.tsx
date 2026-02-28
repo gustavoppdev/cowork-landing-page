@@ -9,7 +9,7 @@ const SocialProof = () => {
   const t = useTranslations("Sections.SocialProof");
 
   return (
-    <section className="section-container py-12 lg:py-20">
+    <section className="section-container py-16 lg:py-28">
       <h2 className="text-center uppercase mb-8 font-semibold">{t("title")}</h2>
 
       <div className="flex overflow-hidden mask-[linear-gradient(to_right,to_transparent,black_10%,black_90%,transparent)]">
