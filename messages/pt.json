@@ -37,6 +37,14 @@
           "description": "Seja a flexibilidade de uma mesa rotativa ou a exclusividade de um escritório privativo, o Cowork oferece soluções sob medida para cada estilo de trabalho."
         }
       }
+    },
+    "VirtualTour": {
+      "introduction": "Um tour virtual",
+      "title": "Explore o Cowork através das nossas <emphasis>Lentes</emphasis>",
+      "description": "Sinta a essência do Cowork antes mesmo de pisar em nossos espaços dinâmicos. Nosso tour imersivo em vídeo oferece uma prévia da atmosfera vibrante, instalações de ponta e da energia colaborativa que definem a experiência Cowork.",
+      "button": "Explorar Espaços",
+      "imageAlt": "Uma imagem mostrando um ambiente corporativo",
+      "playButtonAlt": "Reproduzir tour virtual"
     }
   }
 }
