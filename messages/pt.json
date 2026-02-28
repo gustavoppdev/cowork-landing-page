@@ -10,5 +10,13 @@
       "signUp": "Cadastrar-se",
       "login": "Entrar"
     }
+  },
+  "Sections": {
+    "Hero": {
+      "title": "Eleve seu espaço de trabalho com o <emphasis>Cowork</emphasis>",
+      "description": "Bem-vindo ao Cowork – onde a inovação encontra a colaboração no coração da produtividade! Libere 🚀 seu potencial em nossos espaços de coworking cuidadosamente projetados, feitos para inspirar criatividade e promover conexões.",
+      "button": "Garanta seu lugar",
+      "imageAlt": "Dois homens conversando no lounge de uma empresa."
+    }
   }
 }

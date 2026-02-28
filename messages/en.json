@@ -10,5 +10,13 @@
       "signUp": "Sign Up",
       "login": "Log In"
     }
+  },
+  "Sections": {
+    "Hero": {
+      "title": "Elevate Your Workspace with <emphasis>Cowork</emphasis>",
+      "description": "Welcome to Cowork – where innovation meets collaboration in the heart of productivity! Unleash 🚀 your potential in our thoughtfully designed coworking spaces, tailored to inspire creativity and foster connections.",
+      "button": "Claim Your Spot",
+      "imageAlt": "Two men talking in a company lounge."
+    }
   }
 }
