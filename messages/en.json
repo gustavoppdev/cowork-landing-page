@@ -20,6 +20,23 @@
     },
     "SocialProof": {
       "title": "Trusted by Leading Companies"
+    },
+    "Features": {
+      "title": "Why Choose <emphasis>Cowork?</emphasis>",
+      "cards": {
+        "0": {
+          "title": "Flexible Spaces",
+          "description": "Whether you're a solopreneur, startup, or an established enterprise, our flexible office solutions cater to your evolving needs."
+        },
+        "1": {
+          "title": "Transparent Pricing",
+          "description": "Choose a plan that suits your budget and business objectives, and experience the value of a premium coworking space without breaking the bank."
+        },
+        "2": {
+          "title": "Tailored Memberships",
+          "description": "Whether you prefer the flexibility of a hot desk or the exclusivity of a private office, Cowork offers tailored solutions to suit every working style."
+        }
+      }
     }
   }
 }

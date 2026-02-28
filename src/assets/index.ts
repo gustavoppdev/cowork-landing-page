@@ -6,6 +6,22 @@ import logo2 from "./images/logo2.svg";
 import logo3 from "./images/logo3.svg";
 import logo4 from "./images/logo4.svg";
 import logo5 from "./images/logo5.svg";
+import featureTitleImg from "./images/featureImage.png";
+import featureIcon0 from "./images/PlanetIcon.svg";
+import featureIcon1 from "./images/CreditCardIcon.svg";
+import featureIcon2 from "./images/UserListIcon.svg";
 
 // Exportação
-export { HeroImage, markHero, logo1, logo2, logo3, logo4, logo5 };
+export {
+  HeroImage,
+  markHero,
+  logo1,
+  logo2,
+  logo3,
+  logo4,
+  logo5,
+  featureTitleImg,
+  featureIcon0,
+  featureIcon1,
+  featureIcon2,
+};

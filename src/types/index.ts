@@ -14,3 +14,12 @@ export type SocialProofLogo = {
   logoSrc: StaticImageData;
   altText: string;
 };
+
+// Card de features - Features.tsx
+export type FeatureCard = {
+  titleKey: TranslationKey;
+  descriptionKey: TranslationKey;
+  iconSrc: StaticImageData;
+  dotColor: string;
+  iconAltKey: TranslationKey;
+};
