@@ -1,5 +1,14 @@
 {
-  "HomePage": {
-    "title": "hello world!"
+  "Layout": {
+    "NavigationBar": {
+      "links": {
+        "about": "About",
+        "pricing": "Pricing",
+        "blog": "Blog",
+        "events": "Events"
+      },
+      "signUp": "Sign Up",
+      "login": "Log In"
+    }
   }
 }

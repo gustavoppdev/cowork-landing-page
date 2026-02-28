@@ -1,5 +1,14 @@
 {
-  "HomePage": {
-    "title": "oi world!"
+  "Layout": {
+    "NavigationBar": {
+      "links": {
+        "about": "Sobre",
+        "pricing": "Preços",
+        "blog": "Blog",
+        "events": "Eventos"
+      },
+      "signUp": "Cadastrar-se",
+      "login": "Entrar"
+    }
   }
 }
