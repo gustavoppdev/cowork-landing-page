@@ -37,6 +37,14 @@
           "description": "Ya sea que prefieras la flexibilidad de un hot desk o la exclusividad de una oficina privada, Cowork ofrece soluciones personalizadas para cada estilo de trabajo."
         }
       }
+    },
+    "VirtualTour": {
+      "introduction": "Un tour virtual",
+      "title": "Explora Cowork a través de nuestras <emphasis>Lentes</emphasis>",
+      "description": "Experimenta la esencia de Cowork antes de poner un pie en nuestros espacios dinámicos. Nuestro tour inmersivo en video te ofrece un vistazo a la atmósfera vibrante, las instalaciones de vanguardia y la energía colaborativa que definen la experiencia Cowork.",
+      "button": "Explorar Espacios",
+      "imageAlt": "Una imagen que muestra un entorno corporativo",
+      "playButtonAlt": "Reproducir tour virtual"
     }
   }
 }
