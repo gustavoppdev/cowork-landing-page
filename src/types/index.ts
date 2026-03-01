@@ -23,3 +23,10 @@ export type FeatureCard = {
   dotColor: string;
   iconAltKey: TranslationKey;
 };
+
+// Card de estatísticas - Statistics.tsx
+export type StatisticCard = {
+  number: string;
+  labelKey: string;
+  dotColor: string;
+};

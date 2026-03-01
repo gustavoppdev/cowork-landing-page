@@ -45,6 +45,30 @@
       "button": "Explore Spaces",
       "imageAlt": "An image showing a corporate environment",
       "playButtonAlt": "Play virtual tour"
+    },
+    "Statistics": {
+      "introduction": "Cowork in Numbers",
+      "title": "Transformative Statistics That Speak Volumes",
+      "imageAlt": "A corporate environment",
+      "cards": {
+        "0": {
+          "number": "240%",
+          "title": "Community Growth"
+        },
+
+        "1": {
+          "number": "99%",
+          "title": "Technology Uptime"
+        },
+        "2": {
+          "number": "50+",
+          "title": "Happy Members"
+        },
+        "3": {
+          "number": "100%",
+          "title": "Renewable Energy Sources"
+        }
+      }
     }
   }
 }

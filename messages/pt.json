@@ -45,6 +45,29 @@
       "button": "Explorar Espaços",
       "imageAlt": "Uma imagem mostrando um ambiente corporativo",
       "playButtonAlt": "Reproduzir tour virtual"
+    },
+    "Statistics": {
+      "introduction": "Cowork em Números",
+      "title": "Estatísticas transformadoras que dizem tudo",
+      "imageAlt": "Um ambiente corporativo",
+      "cards": {
+        "0": {
+          "number": "240%",
+          "title": "Crescimento da Comunidade"
+        },
+        "1": {
+          "number": "99%",
+          "title": "Uptime de Tecnologia"
+        },
+        "2": {
+          "number": "50+",
+          "title": "Membros Felizes"
+        },
+        "3": {
+          "number": "100%",
+          "title": "Fontes de Energia Renovável"
+        }
+      }
     }
   }
 }

@@ -8,7 +8,12 @@ import {
   logo4,
   logo5,
 } from "@/assets";
-import { FeatureCard, NavigationLink, SocialProofLogo } from "@/types";
+import {
+  FeatureCard,
+  NavigationLink,
+  SocialProofLogo,
+  StatisticCard,
+} from "@/types";
 
 // Links de navegação - NavigationBar.tsx
 export const NavigationLinks: NavigationLink[] = [
@@ -76,5 +81,30 @@ export const FeaturesCards: FeatureCard[] = [
     iconSrc: featureIcon2,
     dotColor: "bg-shiny-pink",
     iconAltKey: "icons.feature2",
+  },
+];
+
+//
+export const StatisticsCards: StatisticCard[] = [
+  {
+    number: "cards.0.number",
+    labelKey: "cards.0.title",
+    dotColor: "bg-unorganic-green",
+  },
+
+  {
+    number: "cards.1.number",
+    labelKey: "cards.1.title",
+    dotColor: "bg-sky-blue",
+  },
+  {
+    number: "cards.2.number",
+    labelKey: "cards.2.title",
+    dotColor: "bg-shiny-pink",
+  },
+  {
+    number: "cards.3.number",
+    labelKey: "cards.3.title",
+    dotColor: "bg-almost-orange",
   },
 ];

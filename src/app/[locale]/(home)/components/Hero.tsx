@@ -9,7 +9,7 @@ const Hero = () => {
     <section className="section-container grid grid-cols-1 lg:grid-cols-2  items-center gap-10 py-16 lg:py-28">
       {/* Call to action */}
       <div className="flex flex-col items-center lg:items-start gap-6 lg:gap-8 text-center lg:text-left text-balance">
-        <h1 className="font-mono font-bold text-5xl lg:text-6xl 2xl:text-7xl">
+        <h1 className="font-mono font-bold text-5xl lg:text-6xl 2xl:text-7xl ">
           {t.rich("title", {
             emphasis: (chunks) => (
               <div className="relative w-fit inline-block">

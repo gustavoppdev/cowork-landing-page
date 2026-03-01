@@ -12,6 +12,7 @@ import featureIcon1 from "./images/CreditCardIcon.svg";
 import featureIcon2 from "./images/UserListIcon.svg";
 import virtualTourImg from "./images/virtualTourImg.webp";
 import virtualTourTitleImg from "./images/virtualTourTitleImg.png";
+import statisticsImg from "./images/statisticsImg.webp";
 
 // Exportação
 export {
@@ -28,4 +29,5 @@ export {
   featureIcon2,
   virtualTourImg,
   virtualTourTitleImg,
+  statisticsImg,
 };
