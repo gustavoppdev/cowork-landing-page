@@ -99,6 +99,37 @@
           "position": "Consultor de Marketing, Maverick Marketing"
         }
       }
+    },
+    "FAQ": {
+      "introduction": "Perguntas Frequentes",
+      "title": "Seu roteiro para a clareza sobre o Coworking",
+      "description": "Perguntas frequentes ordenadas por popularidade. Lembre-se que, mesmo que o visitante não tenha interagido com a chamada para ação, ele ainda pode ter dúvidas que podem ser esclarecidas.",
+      "list": {
+        "0": {
+          "question": "Quão flexíveis são os planos de assinatura do Cowork?",
+          "answer": "Extremamente! Oferecemos desde passes diários e mesas rotativas até escritórios privativos, permitindo que você mude de plano conforme seu negócio cresce."
+        },
+        "1": {
+          "question": "Que tipo de eventos e oportunidades de networking o Cowork oferece?",
+          "answer": "Realizamos workshops semanais, happy hours de networking e palestras específicas para ajudar você a se conectar com outros inovadores."
+        },
+        "2": {
+          "question": "Posso visitar o espaço Cowork antes de fechar uma assinatura?",
+          "answer": "Com certeza! Você pode fazer nosso tour virtual online ou agendar uma visita física para sentir a atmosfera pessoalmente."
+        },
+        "3": {
+          "question": "O Cowork é adequado para equipes remotas e forças de trabalho distribuídas?",
+          "answer": "Sim, nossa infraestrutura de alta velocidade e salas de reunião privativas são ideais para manter equipes distribuídas conectadas e produtivas."
+        },
+        "4": {
+          "question": "Quais medidas o Cowork toma para a sustentabilidade ambiental?",
+          "answer": "Temos orgulho de utilizar fontes de energia 100% renováveis e manter uma política de zero plástico em todas as nossas instalações."
+        },
+        "5": {
+          "question": "Ainda tem dúvidas?",
+          "answer": "<emphasis>Entre em contato conosco</emphasis> diretamente para um atendimento personalizado."
+        }
+      }
     }
   }
 }
