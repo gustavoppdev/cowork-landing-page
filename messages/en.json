@@ -131,6 +131,11 @@
           "answer": "<emphasis>Contact us</emphasis> directly for personalized assistance."
         }
       }
+    },
+    "CTA": {
+      "title": "<emphasis>Seize</emphasis> The Moment – <breakline>Join the Cowork Today!</breakline>",
+      "description": "Uncover the transformative power of Cowork as echoed by those who've made it their professional haven. This is more than finding a desk; it's discovering a community that fuels your journey to success.",
+      "button": "Claim Your Spot"
     }
   }
 }

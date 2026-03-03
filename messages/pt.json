@@ -130,6 +130,11 @@
           "answer": "<emphasis>Entre em contato conosco</emphasis> diretamente para um atendimento personalizado."
         }
       }
+    },
+    "CTA": {
+      "title": "<emphasis>Aproveite</emphasis> o Momento – <breakline>Junte-se ao Cowork Hoje!</breakline>",
+      "description": "Descubra o poder transformador do Cowork através da voz de quem já fez dele seu refúgio profissional. Isso é mais do que encontrar uma mesa; é descobrir uma comunidade que impulsiona sua jornada para o sucesso.",
+      "button": "Garanta seu lugar"
     }
   }
 }
