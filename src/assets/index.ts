@@ -18,6 +18,7 @@ import avatar1Img from "./images/avatar1.png";
 import avatar2Img from "./images/avatar2.png";
 import avatar3Img from "./images/avatar3.png";
 import avatar4Img from "./images/avatar4.png";
+import ctaTitleImg from "./images/ctaTitleImg.png";
 
 // Exportação
 export {
@@ -40,4 +41,5 @@ export {
   avatar2Img,
   avatar3Img,
   avatar4Img,
+  ctaTitleImg,
 };
