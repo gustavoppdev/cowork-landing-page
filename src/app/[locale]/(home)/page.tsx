@@ -2,6 +2,7 @@ import Features from "./components/Features";
 import Hero from "./components/Hero";
 import SocialProof from "./components/SocialProof";
 import Statistics from "./components/Statistics";
+import { Testimonials } from "./components/Testimonials/Testimonials";
 import VirtualTour from "./components/VirtualTour";
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
       <Features />
       <VirtualTour />
       <Statistics />
+      <Testimonials />
     </main>
   );
 };

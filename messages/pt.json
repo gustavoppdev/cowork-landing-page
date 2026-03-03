@@ -68,6 +68,37 @@
           "title": "Fontes de Energia Renovável"
         }
       }
+    },
+    "Testimonials": {
+      "introduction": "Cowork em Palavras",
+      "title": "O que nossos clientes dizem",
+      "cards": {
+        "0": {
+          "quote": "“A estética do Cowork é inspiradora. A atenção aos detalhes no design cria uma atmosfera que desperta a criatividade. É um lugar onde as ideias fluem sem esforço e a colaboração acontece organicamente.”",
+          "author": "Michael Rodriguez",
+          "position": "Diretor Criativo, DesignCraft Studio"
+        },
+        "1": {
+          "quote": "“O acesso 24/7 e as instalações seguras têm sido incrivelmente convenientes para os horários flexíveis da minha equipe. Adoramos o espaço de coworking!”",
+          "author": "Liam Brown",
+          "position": "Engenheiro de Software, TechStartup Innovations"
+        },
+        "2": {
+          "quote": "“Como designer freelancer, eu estava cansado de trabalhar em casa ou em cafeterias. O espaço de coworking me proporcionou um ambiente produtivo e profissional para focar no meu trabalho.”",
+          "author": "Michael Thompson",
+          "position": "Designer Gráfico, DesignCo"
+        },
+        "3": {
+          "quote": "“O espaço de coworking tem sido um recurso maravilhoso para minha equipe. A planta aberta e as salas privativas nos permitem colaborar e concentrar conforme necessário.”",
+          "author": "David Wilson",
+          "position": "Gerente de Projetos, SoftwareSolutions LLC"
+        },
+        "4": {
+          "quote": "“As opções flexíveis de assinatura e as comodidades como internet de alta velocidade, impressoras e salas de reunião tornaram este espaço de coworking perfeito para o meu pequeno negócio.”",
+          "author": "Alex Nguyen",
+          "position": "Consultor de Marketing, Maverick Marketing"
+        }
+      }
     }
   }
 }

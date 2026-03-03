@@ -30,3 +30,12 @@ export type StatisticCard = {
   labelKey: string;
   dotColor: string;
 };
+
+// Card de depoimentos - Testimonials.tsx
+export type TestimonialCard = {
+  avatarSrc: StaticImageData;
+  quoteKey: TranslationKey;
+  authorKey: TranslationKey;
+  positionKey: TranslationKey;
+  bgColor: string;
+};

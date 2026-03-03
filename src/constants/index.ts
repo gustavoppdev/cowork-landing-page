@@ -1,4 +1,9 @@
 import {
+  avatar0Img,
+  avatar1Img,
+  avatar2Img,
+  avatar3Img,
+  avatar4Img,
   featureIcon0,
   featureIcon1,
   featureIcon2,
@@ -13,6 +18,7 @@ import {
   NavigationLink,
   SocialProofLogo,
   StatisticCard,
+  TestimonialCard,
 } from "@/types";
 
 // Links de navegação - NavigationBar.tsx
@@ -84,7 +90,7 @@ export const FeaturesCards: FeatureCard[] = [
   },
 ];
 
-//
+// Cards de estatísticas - Statistics.tsx
 export const StatisticsCards: StatisticCard[] = [
   {
     number: "cards.0.number",
@@ -106,5 +112,44 @@ export const StatisticsCards: StatisticCard[] = [
     number: "cards.3.number",
     labelKey: "cards.3.title",
     dotColor: "bg-almost-orange",
+  },
+];
+
+// Cards de depoimentos - Testimonials.tsx
+export const TestimonialsCards: TestimonialCard[] = [
+  {
+    avatarSrc: avatar0Img,
+    quoteKey: "cards.0.quote",
+    authorKey: "cards.0.author",
+    positionKey: "cards.0.position",
+    bgColor: "bg-powerless-grey",
+  },
+  {
+    avatarSrc: avatar1Img,
+    quoteKey: "cards.1.quote",
+    authorKey: "cards.1.author",
+    positionKey: "cards.1.position",
+    bgColor: "bg-unorganic-green",
+  },
+  {
+    avatarSrc: avatar2Img,
+    quoteKey: "cards.2.quote",
+    authorKey: "cards.2.author",
+    positionKey: "cards.2.position",
+    bgColor: "bg-sky-blue",
+  },
+  {
+    avatarSrc: avatar3Img,
+    quoteKey: "cards.3.quote",
+    authorKey: "cards.3.author",
+    positionKey: "cards.3.position",
+    bgColor: "bg-shiny-pink",
+  },
+  {
+    avatarSrc: avatar4Img,
+    quoteKey: "cards.4.quote",
+    authorKey: "cards.4.author",
+    positionKey: "cards.4.position",
+    bgColor: "bg-almost-orange",
   },
 ];
