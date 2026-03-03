@@ -27,7 +27,7 @@
   --color-shiny-pink: #fcbedc;
   --color-almost-orange: #fbc899;
   --color-powerless-grey: #f1f1f1;
-  --color-app-background: #f5f5f5;
+  --color-app-background: #fff;
 
   /* Animation */
   --animate-infinite-scroll: infinite-scroll 30s linear infinite;
@@ -151,8 +151,5 @@
   }
   body {
     @apply bg-app-background text-foreground font-sans;
-  }
-  p {
-    @apply leading-7;
   }
 }
