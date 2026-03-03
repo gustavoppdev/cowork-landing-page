@@ -52,8 +52,8 @@ const spreadPositions: CardPosition[] = [
   { x: 0, y: -160, rotate: 0, zIndex: 1 }, // card 0 — cinza (centro-topo)
   { x: -360, y: -130, rotate: 0, zIndex: 1 }, // card 1 — verde (esquerda)
   { x: 360, y: -110, rotate: 0, zIndex: 1 }, // card 2 — azul (direita)
-  { x: -185, y: 240, rotate: 0, zIndex: 1 }, // card 3 — rosa (baixo-esq)
-  { x: 185, y: 260, rotate: 0, zIndex: 1 }, // card 4 — laranja (baixo-dir)
+  { x: -185, y: 270, rotate: 0, zIndex: 1 }, // card 3 — rosa (baixo-esq)
+  { x: 185, y: 290, rotate: 0, zIndex: 1 }, // card 4 — laranja (baixo-dir)
 ];
 
 // ─── Variantes de animação por card ──────────────────────────────────────────

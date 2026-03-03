@@ -24,18 +24,24 @@ export type FeatureCard = {
   iconAltKey: TranslationKey;
 };
 
-// Card de estatísticas - Statistics.tsx
+// Estatísticas - Statistics.tsx
 export type StatisticCard = {
   number: string;
   labelKey: string;
   dotColor: string;
 };
 
-// Card de depoimentos - Testimonials.tsx
+// Depoimentos - Testimonials.tsx
 export type TestimonialCard = {
   avatarSrc: StaticImageData;
   quoteKey: TranslationKey;
   authorKey: TranslationKey;
   positionKey: TranslationKey;
   bgColor: string;
+};
+
+// FAQ - FAQ.tsx
+export type FAQ = {
+  questionKey: TranslationKey;
+  answerKey: TranslationKey;
 };

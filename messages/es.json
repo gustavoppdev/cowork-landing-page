@@ -99,6 +99,37 @@
           "position": "Consultor de Marketing, Maverick Marketing"
         }
       }
+    },
+    "FAQ": {
+      "introduction": "Preguntas Frecuentes",
+      "title": "Tu guía para entender el Coworking",
+      "description": "Preguntas frecuentes ordenadas por popularidad. Recuerda que si el visitante no se ha comprometido con la llamada a la acción, aún podría tener preguntas (dudas) que se puedan resolver.",
+      "list": {
+        "0": {
+          "question": "¿Qué tan flexibles son los planes de membresía de Cowork?",
+          "answer": "¡Extremadamente! Ofrecemos desde pases diarios y hot desks hasta oficinas privadas, permitiéndote escalar tu espacio a medida que tu negocio crece."
+        },
+        "1": {
+          "question": "¿Qué tipo de eventos y oportunidades de networking ofrece Cowork?",
+          "answer": "Organizamos talleres semanales, happy hours de networking y charlas específicas para ayudarte a conectar con otros innovadores."
+        },
+        "2": {
+          "question": "¿Puedo visitar el espacio de Cowork antes de contratar una membresía?",
+          "answer": "¡Por supuesto! Puedes realizar nuestro tour virtual en línea o programar una visita física para vivir la atmósfera en persona."
+        },
+        "3": {
+          "question": "¿Es Cowork adecuado para equipos remotos y trabajadores distribuidos?",
+          "answer": "Sí, nuestra infraestructura de alta velocidad y salas de reuniones privadas están diseñadas para mantener a los equipos productivos y conectados."
+        },
+        "4": {
+          "question": "¿Qué medidas toma Cowork para la sostenibilidad ambiental?",
+          "answer": "Nos enorgullece utilizar fuentes de energía 100% renovables y mantener una política de cero plásticos en todas nuestras instalaciones."
+        },
+        "5": {
+          "question": "¿Todavía tienes preguntas?",
+          "answer": "<emphasis>Contáctanos directamente </emphasis> para recibir asistencia personalizada."
+        }
+      }
     }
   }
 }

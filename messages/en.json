@@ -100,6 +100,37 @@
           "position": "Marketing Consultant, Maverick Marketing"
         }
       }
+    },
+    "FAQ": {
+      "introduction": "Frequently Asked Questions",
+      "title": "Your Roadmap to Coworking Clarity",
+      "description": "Frequently asked questions ordered by popularity. Remember that if the visitor has not committed to the call to action, they may still have questions (doubts) that can be answered.",
+      "list": {
+        "0": {
+          "question": "How flexible are Cowork's membership plans?",
+          "answer": "Extremely! We offer everything from day passes and hot desks to dedicated private offices, allowing you to scale your space as your business grows."
+        },
+        "1": {
+          "question": "What kind of events and networking opportunities does Cowork provide?",
+          "answer": "We host weekly workshops, networking happy hours, and industry-specific talks to help you connect with other innovators in our community."
+        },
+        "2": {
+          "question": "Can I tour the Cowork space before committing to a membership?",
+          "answer": "Absolutely! You can take our virtual tour online or book a physical visit to experience the atmosphere in person before signing up."
+        },
+        "3": {
+          "question": "Is Cowork suitable for remote teams and distributed workforces?",
+          "answer": "Yes, our high-speed infrastructure and private meeting rooms are designed to keep distributed teams connected and productive."
+        },
+        "4": {
+          "question": "What measures does Cowork take for environmental sustainability?",
+          "answer": "We are proud to use 100% renewable energy sources and maintain a zero-plastic policy across all our facilities."
+        },
+        "5": {
+          "question": "Still have questions?",
+          "answer": "<emphasis>Contact us</emphasis> directly for personalized assistance."
+        }
+      }
     }
   }
 }

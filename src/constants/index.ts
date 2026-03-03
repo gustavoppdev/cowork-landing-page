@@ -14,6 +14,7 @@ import {
   logo5,
 } from "@/assets";
 import {
+  FAQ,
   FeatureCard,
   NavigationLink,
   SocialProofLogo,
@@ -151,5 +152,32 @@ export const TestimonialsCards: TestimonialCard[] = [
     authorKey: "cards.4.author",
     positionKey: "cards.4.position",
     bgColor: "bg-almost-orange",
+  },
+];
+
+export const FAQArray: FAQ[] = [
+  {
+    questionKey: "list.0.question",
+    answerKey: "list.0.answer",
+  },
+  {
+    questionKey: "list.1.question",
+    answerKey: "list.1.answer",
+  },
+  {
+    questionKey: "list.2.question",
+    answerKey: "list.2.answer",
+  },
+  {
+    questionKey: "list.3.question",
+    answerKey: "list.3.answer",
+  },
+  {
+    questionKey: "list.4.question",
+    answerKey: "list.4.answer",
+  },
+  {
+    questionKey: "list.5.question",
+    answerKey: "list.5.answer",
   },
 ];
