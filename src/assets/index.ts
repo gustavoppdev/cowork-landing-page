@@ -19,6 +19,10 @@ import avatar2Img from "./images/avatar2.png";
 import avatar3Img from "./images/avatar3.png";
 import avatar4Img from "./images/avatar4.png";
 import ctaTitleImg from "./images/ctaTitleImg.png";
+import trendingImg from "./images/trendingImg.webp";
+import talkImg from "./images/talkImg.webp";
+import productivityImg from "./images/productivityImg.webp";
+import blogTitleImg from "./images/blogTitleImg.png";
 
 // Exportação
 export {
@@ -42,4 +46,8 @@ export {
   avatar3Img,
   avatar4Img,
   ctaTitleImg,
+  trendingImg,
+  talkImg,
+  productivityImg,
+  blogTitleImg,
 };

@@ -136,6 +136,30 @@
       "title": "<emphasis>Seize</emphasis> The Moment – <breakline>Join the Cowork Today!</breakline>",
       "description": "Uncover the transformative power of Cowork as echoed by those who've made it their professional haven. This is more than finding a desk; it's discovering a community that fuels your journey to success.",
       "button": "Claim Your Spot"
+    },
+    "Blog": {
+      "introduction": "Cowork Chronicles ",
+      "title": "Insights, Innovation, and <emphasis>Inspiration</emphasis>",
+      "description": "Stay updated on the latest trends in coworking, productivity tips, and success stories that define the Cowork experience.",
+      "button": "View All",
+      "readmoreBtn": "Read more",
+      "articles": {
+        "0": {
+          "category": "Trending",
+          "minRead": "7 min read",
+          "title": "Navigating the Future: Trends in Modern Coworking Spaces"
+        },
+        "1": {
+          "category": "Productivity",
+          "minRead": "5 min read",
+          "title": "Mastering Productivity: Tips from Cowork's High Achievers"
+        },
+        "2": {
+          "category": "Talk",
+          "minRead": "10 min read",
+          "title": "Tech Talk: The Backbone of Cowork's Seamless Experience"
+        }
+      }
     }
   }
 }

@@ -12,8 +12,12 @@ import {
   logo3,
   logo4,
   logo5,
+  productivityImg,
+  talkImg,
+  trendingImg,
 } from "@/assets";
 import {
+  BlogCard,
   FAQ,
   FeatureCard,
   NavigationLink,
@@ -155,6 +159,7 @@ export const TestimonialsCards: TestimonialCard[] = [
   },
 ];
 
+// FAQ - FAQ.tsx
 export const FAQArray: FAQ[] = [
   {
     questionKey: "list.0.question",
@@ -179,5 +184,30 @@ export const FAQArray: FAQ[] = [
   {
     questionKey: "list.5.question",
     answerKey: "list.5.answer",
+  },
+];
+
+// Blog - Blog.tsx
+export const BlogCards: BlogCard[] = [
+  {
+    category: "articles.0.category",
+    minRead: "articles.0.minRead",
+    title: "articles.0.title",
+    imageSrc: trendingImg,
+    color: "bg-sky-blue",
+  },
+  {
+    category: "articles.1.category",
+    minRead: "articles.1.minRead",
+    title: "articles.1.title",
+    imageSrc: productivityImg,
+    color: "bg-shiny-pink",
+  },
+  {
+    category: "articles.2.category",
+    minRead: "articles.2.minRead",
+    title: "articles.2.title",
+    imageSrc: talkImg,
+    color: "bg-unorganic-green",
   },
 ];

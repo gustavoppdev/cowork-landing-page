@@ -135,6 +135,30 @@
       "title": "<emphasis>Aprovecha</emphasis> el Momento – <breakline>¡Únete a Cowork Hoy!</breakline>",
       "description": "Descubre el poder transformador de Cowork a través de las voces de quienes lo han convertido en su refugio profesional. Esto es más que encontrar un escritorio; es descubrir una comunidad que impulsa tu camino al éxito.",
       "button": "Reserva tu lugar"
+    },
+    "Blog": {
+      "introduction": "Crónicas de Cowork",
+      "title": "Insights, Innovación e <emphasis>Inspiración</emphasis>",
+      "description": "Mantente al día con las últimas tendencias en coworking, consejos de productividad e historias de éxito que definen la experiencia Cowork.",
+      "button": "Ver Todo",
+      "readmoreBtn": "Leer más",
+      "articles": {
+        "0": {
+          "category": "Trending",
+          "minRead": "7 min de lectura",
+          "title": "Navegando el Futuro: Tendencias en Espacios de Coworking Modernos"
+        },
+        "1": {
+          "category": "Productividad",
+          "minRead": "5 min de lectura",
+          "title": "Dominando la Productividad: Consejos de los Miembros más Destacados de Cowork"
+        },
+        "2": {
+          "category": "Talk",
+          "minRead": "10 min de lectura",
+          "title": "Tech Talk: La Columna Vertebral de la Experiencia Fluida en Cowork"
+        }
+      }
     }
   }
 }

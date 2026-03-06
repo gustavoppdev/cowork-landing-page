@@ -45,3 +45,12 @@ export type FAQ = {
   questionKey: TranslationKey;
   answerKey: TranslationKey;
 };
+
+// Blog - Blog.tsx
+export type BlogCard = {
+  category: TranslationKey;
+  minRead: TranslationKey;
+  title: TranslationKey;
+  imageSrc: StaticImageData;
+  color: string;
+};

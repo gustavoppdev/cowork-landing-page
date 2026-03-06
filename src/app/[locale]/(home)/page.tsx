@@ -1,3 +1,4 @@
+import { Blog } from "./components/Blog";
 import CTA from "./components/CTA";
 import FAQ from "./components/FAQ";
 import Features from "./components/Features";
@@ -18,6 +19,7 @@ const Home = () => {
       <Testimonials />
       <FAQ />
       <CTA />
+      <Blog />
     </main>
   );
 };
