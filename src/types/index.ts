@@ -54,3 +54,9 @@ export type BlogCard = {
   imageSrc: StaticImageData;
   color: string;
 };
+
+// Footer - Footer.tsx
+export type FooterLink = {
+  titleKey: string;
+  links: NavigationLink[];
+};

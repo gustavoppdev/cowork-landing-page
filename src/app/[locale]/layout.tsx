@@ -10,7 +10,11 @@ import { routing } from "@/i18n/routing";
 // CSS
 import "./globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
+
+// Componentes
 import NavigationBar from "@/components/layout/NavigationBar";
+import { Footer } from "@/components/layout/Footer";
+import { Toaster } from "sonner";
 
 const generalSans = localFont({
   variable: "--font-general-sans",
@@ -97,6 +101,8 @@ export default async function RootLayout({ children, params }: Props) {
           <NextIntlClientProvider>
             <NavigationBar />
             {children}
+            <Toaster />
+            <Footer />
           </NextIntlClientProvider>
         </ThemeProvider>
       </body>
