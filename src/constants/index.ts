@@ -20,6 +20,7 @@ import {
   BlogCard,
   FAQ,
   FeatureCard,
+  FooterLink,
   NavigationLink,
   SocialProofLogo,
   StatisticCard,
@@ -209,5 +210,95 @@ export const BlogCards: BlogCard[] = [
     title: "articles.2.title",
     imageSrc: talkImg,
     color: "bg-unorganic-green",
+  },
+];
+
+// Footer - Footer.tsx
+export const FooterLinks: FooterLink[] = [
+  {
+    titleKey: "0.title",
+    links: [
+      {
+        href: "#",
+        labelKey: "0.home",
+      },
+      {
+        href: "#",
+        labelKey: "0.about",
+      },
+      {
+        href: "#",
+        labelKey: "0.pricing",
+      },
+      {
+        href: "#",
+        labelKey: "0.blog",
+      },
+      {
+        href: "#",
+        labelKey: "0.events",
+      },
+    ],
+  },
+  {
+    titleKey: "1.title",
+    links: [
+      {
+        href: "#",
+        labelKey: "1.subscribe",
+      },
+      {
+        href: "#",
+        labelKey: "1.memberStories",
+      },
+      {
+        href: "#",
+        labelKey: "1.locations",
+      },
+      {
+        href: "#",
+        labelKey: "1.writeForUs",
+      },
+    ],
+  },
+  {
+    titleKey: "2.title",
+    links: [
+      {
+        href: "#",
+        labelKey: "2.facebook",
+      },
+      {
+        href: "#",
+        labelKey: "2.instagram",
+      },
+      {
+        href: "#",
+        labelKey: "2.x",
+      },
+      {
+        href: "#",
+        labelKey: "2.linkedin",
+      },
+      {
+        href: "#",
+        labelKey: "2.youtube",
+      },
+    ],
+  },
+];
+
+export const FooterBottomLinks: NavigationLink[] = [
+  {
+    href: "#",
+    labelKey: "bottom.privacy",
+  },
+  {
+    href: "#",
+    labelKey: "bottom.terms",
+  },
+  {
+    href: "#",
+    labelKey: "bottom.cookies",
   },
 ];

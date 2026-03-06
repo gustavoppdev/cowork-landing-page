@@ -9,6 +9,46 @@
       },
       "signUp": "Sign Up",
       "login": "Log In"
+    },
+    "Footer": {
+      "Newsletter": {
+        "introduction": "Join our newsletter to stay up to date on features and releases.",
+        "description": "By subscribing you agree to with our Privacy Policy and provide consent to receive updates from our company.",
+        "button": "Subscribe",
+        "placeholder": "Enter your email",
+        "subscribeSuccess": "Subscribed successfully"
+      },
+      "NavigationLinks": {
+        "0": {
+          "title": "Explore more",
+          "home": "Home",
+          "about": "About",
+          "pricing": "Pricing",
+          "blog": "Blog",
+          "events": "Events"
+        },
+        "1": {
+          "title": "Stay connected",
+          "subscribe": "Subscribe",
+          "memberStories": "Member Stories",
+          "locations": "Locations",
+          "writeForUs": "Write for Us"
+        },
+        "2": {
+          "title": "Follow Us",
+          "facebook": "Facebook",
+          "instagram": "Instagram",
+          "x": "X",
+          "linkedin": "LinkedIn",
+          "youtube": "YouTube"
+        }
+      },
+      "bottom": {
+        "copyright": "© {year} Cowork. All rights reserved.",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "cookies": "Cookies Settings"
+      }
     }
   },
   "Sections": {
